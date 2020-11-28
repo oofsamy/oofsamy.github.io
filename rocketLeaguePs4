@@ -1,0 +1,35 @@
+.controller.ds4.white {
+    background-image: url(https://i.imgur.com/yZ8dihC.png);
+}
+
+.ds4.white.disconnected {
+    background: url(https://i.imgur.com/sfgEnb0.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://i.imgur.com/YqXYVPn.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://i.imgur.com/Tr271aO.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(https://i.imgur.com/BZkes64.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://i.imgur.com/LwqKu8U.png);
+}
+
+.ds4.white .button {
+    background-image: url(https://i.imgur.com/7AIncN3.png);
+}
+
+.ds4.white .stick {
+    background-image: url(https://i.imgur.com/7sHxEqz.png);
+}
+
+.ds4.white .face {
+    background-image: url(https://i.imgur.com/TDnmtB9.png);
+}
